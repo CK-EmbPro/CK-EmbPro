@@ -10,6 +10,7 @@
 
 ### 🔧 Technologies & Tools
 
+- **Programming languages:** Javascript, Typescript, Java, Html , Python, C, C++
 - **Frontend:** React.js, Next.js, React Native, HTML , CSS, Tailwindcss, Bootstrapcss
 - **Backend:** Node.js, Express.js, NestJS, Spring Boot
 - **Databases:** MongoDB, MySQL, PostgreSQL
