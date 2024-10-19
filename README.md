@@ -8,11 +8,6 @@
 
 ---
 
-[![CK-EmbPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CK-EmbPro)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
 ### 🔧 Technologies & Tools
 
 - **Frontend:** React.js, Next.js, React Native, HTML , CSS, Tailwindcss, Bootstrapcss
@@ -48,6 +43,14 @@
 
 - **Project 3:** [File_manage](https://github.com/CK-EmbPro/file_manage.git)
   - Uploading , downloading and listing files on a directory in the remote server
+---
+
+---
+
+[![CK-EmbPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CK-EmbPro)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ---
 
 ### 📫 Contact Me
