@@ -10,11 +10,11 @@
 
 ### 🔧 Technologies & Tools
 
-- **Frontend:** React.js, Next.js, React Native
+- **Frontend:** React.js, Next.js, React Native, HTML , CSS, Tailwindcss, Bootstrapcss
 - **Backend:** Node.js, Express.js, NestJS, Spring Boot
 - **Databases:** MongoDB, MySQL, PostgreSQL
-- **Version Control:** Git, GitHub, GitLab
-- **Others:** Docker, Kubernetes, CI/CD, REST APIs, GraphQL
+- **Version Control:** Git, GitHub
+- **Others:** Docker, Kubernetes, CI/CD, REST APIs, Prisma
 
 ---
 
@@ -42,14 +42,16 @@
 
 ### 📫 Contact Me
 
-- **Email:** cyizakennydebrice@example.com
+- **Email:** kennydebrice2@gmail.com
 - **LinkedIn:** [Cyiza Kenny Debrice](https://linkedin.com/in/cyizakennydebrice)
-- **GitHub:** [@yourusername](https://github.com/yourusername)
+- **GitHub:** [@CK-EmbPro](https://github.com/CK-EmbPro)
 
 ---
 
 ### 🌱 Currently Learning
 
 - Advanced Next.js features like server-side rendering and API routes.
+- Firebase
+- Django
 - Microservices architecture with Spring Boot and Docker.
 
