@@ -8,6 +8,11 @@
 
 ---
 
+[![CK-EmbPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CK-EmbPro)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ### 🔧 Technologies & Tools
 
 - **Frontend:** React.js, Next.js, React Native, HTML , CSS, Tailwindcss, Bootstrapcss
