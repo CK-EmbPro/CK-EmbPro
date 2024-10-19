@@ -41,7 +41,7 @@
 - **Project 3:** [Employee_Management_system ](https://github.com/CK-EmbPro/EmployeeMS-SB-RESTApis.git)
   - Springboot RestFul APIs for employee management system
 
-- **Project 3:** [File management](https://github.com/CK-EmbPro/file_manage.git)
+- **Project 3:** [File_manage](https://github.com/CK-EmbPro/file_manage.git)
   - Uploading , downloading and listing files on a directory in the remote server
 ---
 
