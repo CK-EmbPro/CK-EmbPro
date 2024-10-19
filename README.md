@@ -56,7 +56,7 @@
 ### 📫 Contact Me
 
 - **Email:** kennydebrice2@gmail.com
-- **LinkedIn:** [Cyiza Kenny Debrice](https://linkedin.com/in/cyizakennydebrice)
+- **LinkedIn:** [Cyiza Kenny Debrice](https://www.linkedin.com/in/cyiza-kenny-debrice-544091260/)
 - **GitHub:** [@CK-EmbPro](https://github.com/CK-EmbPro)
 
 ---
