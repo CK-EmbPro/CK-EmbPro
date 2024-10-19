@@ -29,15 +29,20 @@
 
 ### 🚀 My Projects
 
-- **Project 1:** [UBumuntu Art Festival Website](https://github.com/yourusername/project1)
-  - A web platform for the UBumuntu Art Festival built with React.js, Tailwind CSS, and Redux.js.
+- **Project 1:** [Text-Analyzer tool](https://github.com/CK-EmbPro/text-analyzer-tool.git)
+  - A react-based tool for counting words , spaces, characters and estimating reading time
   
-- **Project 2:** [Momo Payment Integration](https://github.com/yourusername/project2)
-  - A MoMo (Mobile Money) integration for a Spring Boot application using Feign Client for payment processing.
+- **Project 2:** [React beginner projects  ](https://github.com/CK-EmbPro/ReactChallenges.git)
+  - React projects for beginner
   
-- **Project 3:** [Next.js Google Maps Integration](https://github.com/yourusername/project3)
-  - Implemented a custom solution for Google Maps Directions API in a Next.js app.
+- **Project 3:** [Student_Management_system](https://github.com/CK-EmbPro/StudentMS-SB.git)
+  - Springboot RestFul APIs for student management system
+    
+- **Project 3:** [Employee_Management_system ](https://github.com/CK-EmbPro/EmployeeMS-SB-RESTApis.git)
+  - Springboot RestFul APIs for employee management system
 
+- **Project 3:** [File management](https://github.com/CK-EmbPro/file_manage.git)
+  - Uploading , downloading and listing files on a directory in the remote server
 ---
 
 ### 📫 Contact Me
