@@ -39,10 +39,10 @@
 - **Project 3:** [Student_Management_system](https://github.com/CK-EmbPro/StudentMS-SB.git)
   - Springboot RestFul APIs for student management system
     
-- **Project 3:** [Employee_Management_system ](https://github.com/CK-EmbPro/EmployeeMS-SB-RESTApis.git)
+- **Project 4:** [Employee_Management_system ](https://github.com/CK-EmbPro/EmployeeMS-SB-RESTApis.git)
   - Springboot RestFul APIs for employee management system
 
-- **Project 3:** [File_manage](https://github.com/CK-EmbPro/file_manage.git)
+- **Project 5:** [File_manage](https://github.com/CK-EmbPro/file_manage.git)
   - Uploading , downloading and listing files on a directory in the remote server
 ---
 
