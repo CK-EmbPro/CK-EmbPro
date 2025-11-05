@@ -1,10 +1,10 @@
 # Cyiza Kenny Debrice
 
-### Full-Stack Developer | React.js | Next.js | NestJS | Node.js | Express.js | Spring Boot | React Native
+### Software Developer (Backend + frontend + Mobile app development)
 
 ---
 
-👋 Hi! I'm Cyiza Kenny Debrice, a passionate full-stack developer with experience building modern web and mobile applications. I enjoy solving problems and creating seamless user experiences.
+👋 Hi! I'm Cyiza Kenny Debrice, a passionate Software Developer experienced in building modern web and mobile applications, including projects like TrustMe — a debt and employment management system — and an All-in-One Stock Management System for managing inventory, purchases, sales and also debts along with generating proforma(invoices) and delivery notes. I love crafting seamless user experiences and developing impactful solutions that make everyday life easier.
 
 ---
 
