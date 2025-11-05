@@ -47,7 +47,7 @@
 - **Project 6:** [Mk Scholar Driving school](https://github.com/CK-EmbPro/EmployeeMS-SB-RESTApis.git)
   - MK Scholar Driving School – interactive quizzes, permit test prep, and expert driving tips.
 
-  - **Project 4:** [Random Quote Generator](https://randomquotgen.netlify.app/)
+- **Project 4:** [Random Quote Generator](https://randomquotgen.netlify.app/)
   - A random quote generator
 
 - **Project 7:** [Text-Analyzer tool](https://textanalyzzrer.netlify.app/)
