@@ -82,7 +82,7 @@
 - **LinkedIn:** [Cyiza Kenny Debrice](https://www.linkedin.com/in/cyiza-kenny-debrice-544091260/)
 - **GitHub:** [@CK-EmbPro](https://github.com/CK-EmbPro)
 - **Instagram:** [@ck_the_1st](https://instagram.com/ck_the_1st)
-- **Phone number:** [+250798594425](tel:+250798594425)
+**Phone number:** [+250798594425](tel:+250798594425)
 ---
 
 
